@@ -1,2 +1,2 @@
-# codewars-sum-of-minimums
-Given a 2D vector of size m * n. Your task is to find the sum of minimum value in each row.
+# Kata description:
+https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
